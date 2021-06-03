@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals humbly offered to the honourable the knights, citizens, and burgesses in Parliament assembled, for the setling a fund for fifteen years, for the raising of two millions of pounds sterling, towards the carrying on the vvar against France with vigour.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28462</idno><idno type="EEBO-CITATION">99885681</idno>
+  <idno type="VID">201609</idno>
+  <idno type="EEBO-PROQUEST">2248536420</idno>
+  
+            <idno type="STC">Wing P3759C</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.6[55]</idno>
+            <idno type="STC">ESTC R224820</idno>
+            <idno type="PROQUEST">ocm99885681</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99885681e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201609)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C25:3[57])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals humbly offered to the honourable the knights, citizens, and burgesses in Parliament assembled, for the setling a fund for fifteen years, for the raising of two millions of pounds sterling, towards the carrying on the vvar against France with vigour.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  England --  Early works to 1800.</term>
+               <term type="topical_term">Finance, Public --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Foreign relations --  France --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201609:1"/>
+            <head>Proposals humbly offered to the Honourable the Knights, Citizens, and Burgesses in Parliament Assembled, for the setling a Fund for Fifteen Years, for the raising of Two Millions of Pounds Sterling, towards the carrying on the VVar against <hi>France</hi> with Vigour.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Two hundred thousand that may be born at Ten Shillings.</hi>
+                     </cell>
+                     <cell>100000</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Twenty thousand Weadings at Twenty Shillings.</hi>
+                     </cell>
+                     <cell>40000</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Two hundred thousand that may be buried at Twenty Shillings.</hi>
+                     </cell>
+                     <cell>200000</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell role="total">
+                        <hi>Pounds Yearly,</hi>
+                     </cell>
+                     <cell role="total">340000</cell>
+                     <cell role="total">00</cell>
+                     <cell role="total">00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>TO Answer the above Rates its humbly Proposed, That all Degrees of the Nobility from a Duke to a Barron Inclusive to pay for each they have born <hi>Fifty Shillings,</hi> on their own Marriage <hi>Ten Pounds,</hi> on their Burial <hi>Ten Pounds.</hi>
+            </p>
+            <p>The Children of any of the Nobility that have any Children Born, to pay for each <hi>Twenty Shillings,</hi> on their own Marriage <hi>Five Pounds,</hi> at their Funeral <hi>Five Pounds</hi> more.</p>
+            <p>All Barronets, Knights, Judges, Sergeants at Law, Doctors of Divinity, Phyfick or Law, Aldermen, Esquires (by Birth, or Place) Merchants and whole-sale Trades-men on their Marriage <hi>Five Pounds.</hi> on the Birth of their Children <hi>Fifteen Shillings,</hi> at their Burial <hi>Five Pounds.</hi>
+            </p>
+            <p>All Gentlemen or Women, at their Birth <hi>Ten Shillings,</hi> Marriage <hi>Twenty Shillings,</hi> Burial <hi>Twenty Shillings.</hi>
+            </p>
+            <p>All Free-holders, Farmers and Trades-men, at Marriage <hi>Ten Shillings,</hi> at the Birth of any Child <hi>Five Shillings.</hi> at their Funeral to be paid <hi>Ten Shillings.</hi>
+            </p>
+            <p>All others <hi>Two Shillings six Pence</hi> Born, <hi>Five Shillings</hi> Married, <hi>Five Shillings</hi> Buried, the Poor excepted.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label"> </cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>Two Millions of Money lent at 16 <hi>per Cent</hi> is Yearly</cell>
+                     <cell>320000</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>For the Charges and to supply if fall short</cell>
+                     <cell>20000</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>The Advantage to the Persons that lend this <hi>Money</hi> proved thus</cell>
+                     <cell>34000</cell>
+                     <cell>00</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>100 <hi>l.</hi> lent at 8 <hi>per Cent</hi> for 15 Years, the Interest is</cell>
+                     <cell>120</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>The Principle Repaid</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell role="total"> </cell>
+                     <cell role="total">220</cell>
+                     <cell role="total">00</cell>
+                     <cell role="total">00</cell>
+                  </row>
+                  <row>
+                     <cell>Fifteen Years Interest at 16 <hi>per Gent. per Annum</hi> is</cell>
+                     <cell>240</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The <hi>Money</hi> lent on this Fund to be made Transferrable by an Office for that purpose, and 2 <hi>s.</hi> 6 <hi>d</hi> for every 100 <hi>l.</hi> to have paid for the maintaining it, when the same is as good as Cash to the lender of it.</p>
+            <p>By the above Compute of the Number, One Fifth is left out for the Poor, to excuse their being Taxed any thing.</p>
+            <p>If the Interest of 16 <hi>per Cent.</hi> for 15 Years be esteemed too high an Interest, it may be re<g ref="char:EOLhyphen"/>gulated as you in your Wisdoms shall see convenient.</p>
+            <p>This method of Raising Money will sink the Principle, and not leave a perpetual Tax on the Nation.</p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <pb facs="tcp:201609:2"/>
+            <p>
+               <hi>Proposals</hi> for the Rai<g ref="char:EOLhyphen"/>sing Two Millions, by set<g ref="char:EOLhyphen"/>ling a Fund for <hi>15</hi> Years.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
